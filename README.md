@@ -1,1 +1,1 @@
-# My-1st-project
+# My-1st Tic tac toe-project
